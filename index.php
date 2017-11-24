@@ -26,5 +26,6 @@ define('APP_PATH', __DIR__ . '/application/');
 // 引入xsyphp框架入口文件
 require './xsyphp/xsyphp.php';
 
+
 // 亲^_^ 后面不需要任何代码了 就是如此简单
 
